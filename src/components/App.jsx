@@ -1,4 +1,4 @@
-import { VITE_API_URL } from "../env"
+import { VITE_API_URL } from "../constants/env"
 
 
 function App() {
